@@ -7,9 +7,10 @@
   "tenants": [
     {
        "1":[
-        {
-          "config": "config1"
-        }
-    ]
-  }
+            {
+              "config": "config1"
+            }
+        ]
+    }
+  ]
 }
