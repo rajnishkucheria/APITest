@@ -4,13 +4,9 @@
     { "id": 2, "name": "Customer2" },
     { "id": 3, "name": "Customer3" }
   ],
-  "tenants": [
-    {
-       1:[
-            {
-              "config": "config1"
-            }
-        ]
-    }
-  ]
+  "tenants": {
+    "id": {
+      "config": [{"id": 1, "name": "Customer1"}]
+      }
+   }
 }
