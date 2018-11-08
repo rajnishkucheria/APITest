@@ -5,8 +5,8 @@
     { "id": 3, "name": "Customer3" }
   ],
   "tenants": [
-    { "id": 1, "config": "config1" },
-    { "id": 2, "config": "config2" },
-    { "id": 3, "config": "config3" }
+    { "id": 1, "config": "{ "field1": 1, "field2": 2 }" },
+    { "id": 2, "config": "{ "field1": 1, "field2": 2 }" },
+    { "id": 3, "config": "{ "field1": 1, "field2": 2 }" }
   ]
 }
