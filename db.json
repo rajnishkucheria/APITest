@@ -3,5 +3,10 @@
     { "id": 1, "name": "Customer1" },
     { "id": 2, "name": "Customer2" },
     { "id": 3, "name": "Customer3" }
+  ],
+  "tenants": [
+    { "id": 1, "config": "config1" },
+    { "id": 2, "config": "config2" },
+    { "id": 3, "config": "config3" }
   ]
 }
