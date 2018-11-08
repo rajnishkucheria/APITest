@@ -6,7 +6,7 @@
   ],
   "tenants": [
     {
-       "1":[
+       1:[
             {
               "config": "config1"
             }
